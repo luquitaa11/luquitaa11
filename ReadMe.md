@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Meu nome é Lucas e sou um desenvolvedor full-stack. Trabalho com várias tecnologias e linguagens de programação, tanto no front-end quanto no back-end. Adoro resolver problemas complexos e criar soluções eficientes. Estou sempre aprendendo e me adaptando às novas tendências e tecnologias no mundo do desenvolvimento web. Estou ansioso para trabalhar em projetos desafiadores e inovadores!
+Olá! Meu nome é Lucas e sou um desenvolvedor front-end.  Adoro resolver problemas complexos e criar soluções eficientes. Estou sempre aprendendo e me adaptando às novas tendências e tecnologias no mundo do desenvolvimento web. Estou ansioso para trabalhar em projetos desafiadores e inovadores!
 
 
 ## 🌐 Socials:
